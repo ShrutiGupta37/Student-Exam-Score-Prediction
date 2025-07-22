@@ -49,7 +49,7 @@ Academic performance is influenced by a variety of behavioral, psychological, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-exam-score-prediction.git
+   git clone https://github.com/ShrutiGupta37/Student-Exam-Score-Prediction.git
     ```
 2. Install the dependencies:
    ```bash
